@@ -18,7 +18,7 @@ level role with growth into cybersecurity operations.
 |-----------------------------------------------|-----------------------------|
 | SIEM Implementation and Log Analysis          |       Wazuh SIEM Lab        |
 | Multi-Host Exploitation Lab                   | Multi-Host Exploitation Lab | 
-| Malware Analysis                              |       In Progress           |
+| Active Directory Lab                          |       In Progress           |
 
 ## Tools
 <div>
